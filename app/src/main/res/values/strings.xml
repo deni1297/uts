@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">deniuts</string>
+    <string name="intent_bundle">INTENT_BUNDLE</string>
+    <string name="implisit">IMPLISIT</string>
+    <string name="email">EMAIL</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="google_drive">GOOGLE DRIVE</string>
+    <string name="sekolah">Sekolah</string>
+    <string name="npm">Npm</string>
+    <string name="jk">Jk</string>
+    <string name="deni_achmad">Deni Achmad</string>
+    <string name="explicit">explicit</string>
+    <string name="universitas_pgri_semarang">UNIVERSITAS PGRI SEMARANG</string>
+    <string name="_16670090">16670090</string>
+    <string name="contact">CONTACT</string>
+    <string name="browser">BROWSER</string>
+    <string name="galery">GALERY</string>
+    <string name="alaram">ALARAM</string>
+</resources>
